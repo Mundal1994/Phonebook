@@ -1,4 +1,6 @@
-# part3
+# Phonebook
+
+## ABOUT
 
 Checkout the deployed website: 
 
@@ -6,7 +8,8 @@ Part 3 of the Fullstack Open course focuses on the backend of the application.
 Concept that will be explored:
 - Exploration of building our backend on top of NodeJS, which is a JavaScript runtime based on Google's Chrome V8 JavaScript engine.
 
-# phonebook
+
+# REQUIREMENTS
 
 The application must be started with the command 'npm start'.
 
