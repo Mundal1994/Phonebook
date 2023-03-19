@@ -2,7 +2,7 @@
 
 ## ABOUT
 
-Checkout the deployed website: 
+Checkout the deployed website: https://ultimate-phonebook.onrender.com
 
 Part 3 of the Fullstack Open course focuses on the backend of the application.
 Concept that will be explored:
